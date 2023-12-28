@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">KmTestSuitmedia</string>
+    <string name="next_button">NEXT</string>
+    <string name="check_button">CHECK</string>
+    <string name="firstname_lastname">Firstname Lastname</string>
+</resources>
